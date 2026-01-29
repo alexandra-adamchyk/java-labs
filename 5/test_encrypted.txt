@@ -1,0 +1,9 @@
+Привіт, світ! Це тестовий файл для шифрування за алгоритмом Цезаря.
+Nkrru, Cuxrj! Znoy oy g zkyz lork lux Igkygx iovnkx ktixevzout.
+АБВГДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ
+абвгдеєжзиіїйклмнопрстуфхцчшщьюя
+GHIJKLMNOPQRSTUVWXYZABCDEF
+ghijklmnopqrstuvwxyzabcdef
+
+Ключ: 3
+Результат шифрування буде видно у вихідному файлі.

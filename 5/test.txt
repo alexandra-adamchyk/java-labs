@@ -1,0 +1,9 @@
+Привіт, світ! Це тестовий файл для шифрування за алгоритмом Цезаря.
+Hello, World! This is a test file for Caesar cipher encryption.
+АБВГДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ
+абвгдеєжзиіїйклмнопрстуфхцчшщьюя
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+Ключ: 3
+Результат шифрування буде видно у вихідному файлі.
